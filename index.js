@@ -19,7 +19,7 @@ restService.post("/request", function(req, res) {
     req.body.result.parameters &&
     req.body.result.parameters.consultantType
       ? req.body.result.parameters.consultantType
-      : "What is the consultant type?.";
+      : "What is the consultant type?";
   return res.json({
     speech: speech,
     displayText: speech,
