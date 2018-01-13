@@ -1,5 +1,5 @@
-
-  "name": "the-consultant-app",
+{
+   "name": "the-consultant-app",
   "version": "1.0.0",
   "description": "Webhook request sample",
   "main": "index.js",
