@@ -1,0 +1,14 @@
+
+  "name": "the-consultant-app",
+  "version": "1.0.0",
+  "description": "Webhook request sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Israel Denis",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
